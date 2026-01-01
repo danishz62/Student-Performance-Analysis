@@ -6,7 +6,9 @@ we found that both schools are almost same in terms of grade.
 there is a little bit bias in gender like male students are performing good compratively.
 
 tech stack used:
-Pandas: data cleaning
+
+Pandas: data cleaning , 
+
 matplotlib and seaborn: visually represent
 
 open dataset from kaggle
